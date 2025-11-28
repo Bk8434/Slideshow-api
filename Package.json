@@ -1,0 +1,9 @@
+{
+  "name": "slideshow-api",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {}
+}
